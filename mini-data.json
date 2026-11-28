@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-28",
   "coverageEnd": "2026-12-12",
-  "resultPolicy": "user_only",
+  "resultPolicy": "per_team",
   "teams": [
     {
       "id": "u9",
@@ -138,7 +138,8 @@
           "results": [],
           "note": ""
         }
-      ]
+      ],
+      "resultPolicy": "user_only"
     },
     {
       "id": "u11",
@@ -147,128 +148,604 @@
         "EVDRLHB 1",
         "EVDRLHB 2"
       ],
-      "source": "U 11ANS MASCULINS PLANIFICATION PHASE 1 2026 2027.pdf",
+      "source": "FFHandball · championnat et Challenge de l’Eure",
       "standings": null,
       "events": [
         {
-          "id": "u11-J1",
+          "id": "u11league-j1",
           "date": "2026-10-03",
           "endDate": "2026-10-03",
           "round": "J1",
-          "competition": "Tournoi phase 1 · Poule B",
-          "host": "Beuzeville",
+          "competition": "Championnat · Poule B",
+          "host": null,
           "home": false,
           "time": "14:30",
-          "venue": "Gymnase communautaire, allée des Quatre Paroisses, Beuzeville",
+          "venue": "GYMNASE COMMUNAUTAIRE DE BEUZEVILLE, allee des quatre paroisses, BEUZEVILLE",
           "participants": [
             "EVDRLHB 1",
             "EVDRLHB 2",
-            "Beuzeville"
+            "BEUZEVILLE AC HB"
           ],
-          "results": [],
-          "note": ""
+          "results": [
+            {
+              "team": "E VAL DE REUIL LOUVIERS HB 2",
+              "opponent": "BEUZEVILLE AC HB",
+              "for": "26",
+              "against": "1",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737642/",
+              "id": "2737642"
+            }
+          ],
+          "note": "Scores FFHB sous le libellé EVDRLHB 2 ; ils ne sont pas attribués à l’équipe 1. Le planning PDF mentionne les équipes 1 et 2.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2737642",
+              "date": "2026-10-03T14:30:00+02:00",
+              "equipe1Libelle": "BEUZEVILLE AC HB",
+              "equipe2Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe1Score": "1",
+              "equipe2Score": "26",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737642/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         },
         {
-          "id": "u11-J2",
+          "id": "u11league-j2",
           "date": "2026-10-11",
           "endDate": "2026-10-11",
           "round": "J2",
-          "competition": "Tournoi phase 1 · Poule B",
-          "host": "EVDRLHB 1",
+          "competition": "Championnat · Poule B",
+          "host": "EVDRLHB",
           "home": true,
           "time": "14:00",
-          "venue": "Complexe sportif Colette Besson, boulevard Jules Ferry, Louviers",
+          "venue": "COLETTE BESSON, BVD JULES FERRY, LOUVIERS",
           "participants": [
             "EVDRLHB 1",
             "EVDRLHB 2",
-            "Brionne HB"
+            "BRIONNE HB"
           ],
-          "results": [],
-          "note": "Dimanche indiqué dans le planning (ligne du week-end du 10 octobre)."
+          "results": [
+            {
+              "team": "E VAL DE REUIL LOUVIERS HB 2",
+              "opponent": "BRIONNE HB",
+              "for": "47",
+              "against": "5",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737645/",
+              "id": "2737645"
+            }
+          ],
+          "note": "Scores FFHB sous le libellé EVDRLHB 2 ; ils ne sont pas attribués à l’équipe 1. Le planning PDF mentionne les équipes 1 et 2.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2737645",
+              "date": "2026-10-11T14:00:00+02:00",
+              "equipe1Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe2Libelle": "BRIONNE HB",
+              "equipe1Score": "47",
+              "equipe2Score": "5",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737645/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         },
         {
-          "id": "u11-J3",
+          "id": "u11league-j3",
           "date": "2026-11-07",
           "endDate": "2026-11-07",
           "round": "J3",
-          "competition": "Tournoi phase 1 · Poule B",
-          "host": "Pont-de-l’Arche Romilly Alizay",
+          "competition": "Championnat · Poule B",
+          "host": null,
           "home": false,
           "time": "14:00",
-          "venue": "Gymnase J. P. Guerre, rue de l’Église, Alizay",
+          "venue": "GYMNASE D'ALIZAY, RUE DE L'EGLISE, ALIZAY",
           "participants": [
             "EVDRLHB 1",
             "EVDRLHB 2",
-            "Pont-de-l’Arche Romilly Alizay"
+            "PT  DE L'ARCHE ROMILLY/ANDELLE ALIZAY HB"
           ],
-          "results": [],
-          "note": ""
+          "results": [
+            {
+              "team": "E VAL DE REUIL LOUVIERS HB 2",
+              "opponent": "PT  DE L'ARCHE ROMILLY/ANDELLE ALIZAY HB",
+              "for": "19",
+              "against": "1",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737648/",
+              "id": "2737648"
+            }
+          ],
+          "note": "Scores FFHB sous le libellé EVDRLHB 2 ; ils ne sont pas attribués à l’équipe 1. Le planning PDF mentionne les équipes 1 et 2.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2737648",
+              "date": "2026-11-07T14:00:00+01:00",
+              "equipe1Libelle": "PT  DE L'ARCHE ROMILLY/ANDELLE ALIZAY HB",
+              "equipe2Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe1Score": "1",
+              "equipe2Score": "19",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737648/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         },
         {
-          "id": "u11-CH1",
-          "date": "2026-11-14",
+          "id": "u11cup-199851",
+          "date": "2026-11-15",
           "endDate": "2026-11-15",
           "round": "CH1",
-          "competition": "Challenge de l’Eure",
+          "competition": "Challenge de l’Eure · U11 ANS M CH1 T5",
           "host": null,
-          "home": null,
-          "time": null,
-          "venue": null,
-          "participants": [],
-          "results": [],
-          "note": "Journée annoncée sur le week-end du 14–15 novembre ; date exacte, participation, lieu et horaire à confirmer."
+          "home": false,
+          "time": "14:00",
+          "venue": "COMPLEXE SPORTIF, RUE MARCEL PAGNOL, GRAVIGNY",
+          "participants": [
+            "EUS GRAVIGNY MISEREY SPORTS HB",
+            "HBC GASNY",
+            "E. VAL DE REUIL LOUVIERS HB 2"
+          ],
+          "results": [
+            {
+              "team": "E. VAL DE REUIL LOUVIERS HB 2",
+              "opponent": "EUS GRAVIGNY MISEREY SPORTS HB",
+              "for": "11",
+              "against": "2",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199851/rencontre-2766279/",
+              "id": "2766279"
+            },
+            {
+              "team": "E. VAL DE REUIL LOUVIERS HB 2",
+              "opponent": "HBC GASNY",
+              "for": "7",
+              "against": "0",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199851/rencontre-2766280/",
+              "id": "2766280"
+            }
+          ],
+          "note": "Lieu du tournoi vérifié sur la fiche FFHB ; l’ordre domicile/extérieur des rencontres ne désigne pas le club organisateur.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199851/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2766279",
+              "date": "2026-11-15T14:00:00+01:00",
+              "equipe1Libelle": "EUS GRAVIGNY MISEREY SPORTS HB",
+              "equipe2Libelle": "E. VAL DE REUIL LOUVIERS HB 2",
+              "equipe1Score": "2",
+              "equipe2Score": "11",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199851/rencontre-2766279/"
+            },
+            {
+              "ext_rencontreId": "2766280",
+              "date": "2026-11-15T14:00:00+01:00",
+              "equipe1Libelle": "HBC GASNY",
+              "equipe2Libelle": "E. VAL DE REUIL LOUVIERS HB 2",
+              "equipe1Score": "0",
+              "equipe2Score": "7",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199851/rencontre-2766280/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         },
         {
-          "id": "u11-J4",
-          "date": "2026-11-21",
-          "endDate": "2026-11-21",
+          "id": "u11cup-200846",
+          "date": "2026-11-15",
+          "endDate": "2026-11-15",
+          "round": "CH1",
+          "competition": "Challenge de l’Eure · U11 ANS M CH1 T4",
+          "host": null,
+          "home": false,
+          "time": "13:30",
+          "venue": "LEO LAGRANGE, RUE DE LA PLAINE, ST MARCEL",
+          "participants": [
+            "SMV VERNON - ST MARCEL 2",
+            "E. VAL DE REUIL LOUVIERS HB 1",
+            "EZY SUR EURE",
+            "US ETREPAGNY"
+          ],
+          "results": [
+            {
+              "team": "E. VAL DE REUIL LOUVIERS HB 1",
+              "opponent": "SMV VERNON - ST MARCEL 2",
+              "for": "18",
+              "against": "0",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/rencontre-2784617/",
+              "id": "2784617"
+            },
+            {
+              "team": "E. VAL DE REUIL LOUVIERS HB 1",
+              "opponent": "EZY SUR EURE",
+              "for": "13",
+              "against": "4",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/rencontre-2784620/",
+              "id": "2784620"
+            },
+            {
+              "team": "E. VAL DE REUIL LOUVIERS HB 1",
+              "opponent": "US ETREPAGNY",
+              "for": "14",
+              "against": "0",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/rencontre-2784621/",
+              "id": "2784621"
+            }
+          ],
+          "note": "Lieu du tournoi vérifié sur la fiche FFHB ; l’ordre domicile/extérieur des rencontres ne désigne pas le club organisateur.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2784617",
+              "date": "2026-11-15T13:30:00+01:00",
+              "equipe1Libelle": "SMV VERNON - ST MARCEL 2",
+              "equipe2Libelle": "E. VAL DE REUIL LOUVIERS HB 1",
+              "equipe1Score": "0",
+              "equipe2Score": "18",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/rencontre-2784617/"
+            },
+            {
+              "ext_rencontreId": "2784620",
+              "date": "2026-11-15T13:30:00+01:00",
+              "equipe1Libelle": "E. VAL DE REUIL LOUVIERS HB 1",
+              "equipe2Libelle": "EZY SUR EURE",
+              "equipe1Score": "13",
+              "equipe2Score": "4",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/rencontre-2784620/"
+            },
+            {
+              "ext_rencontreId": "2784621",
+              "date": "2026-11-15T13:30:00+01:00",
+              "equipe1Libelle": "E. VAL DE REUIL LOUVIERS HB 1",
+              "equipe2Libelle": "US ETREPAGNY",
+              "equipe1Score": "14",
+              "equipe2Score": "0",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/rencontre-2784621/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
+        },
+        {
+          "id": "u11league-j4",
+          "date": "2026-11-22",
+          "endDate": "2026-11-22",
           "round": "J4",
-          "competition": "Tournoi phase 1 · Poule B",
-          "host": "EVDRLHB 1",
+          "competition": "Championnat · Poule B",
+          "host": "EVDRLHB",
           "home": true,
           "time": "14:00",
-          "venue": "Gymnase Alphonse Allais, Voie Buissonnière, Val-de-Reuil",
+          "venue": "ALPHONSE ALLAIS, VOIE BUISSONNIERE, VAL DE REUIL",
           "participants": [
             "EVDRLHB 1",
             "EVDRLHB 2",
-            "Beuzeville"
+            "BEUZEVILLE AC HB"
           ],
-          "results": [],
-          "note": ""
+          "results": [
+            {
+              "team": "E VAL DE REUIL LOUVIERS HB 2",
+              "opponent": "BEUZEVILLE AC HB",
+              "for": "13",
+              "against": "2",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737652/",
+              "id": "2737652"
+            }
+          ],
+          "note": "Scores FFHB sous le libellé EVDRLHB 2 ; ils ne sont pas attribués à l’équipe 1. Le planning PDF mentionne les équipes 1 et 2. Date FFHB : dimanche 22 novembre (le PDF initial indiquait le 21).",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2737652",
+              "date": "2026-11-22T14:00:00+01:00",
+              "equipe1Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe2Libelle": "BEUZEVILLE AC HB",
+              "equipe1Score": "13",
+              "equipe2Score": "2",
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737652/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         },
         {
-          "id": "u11-CH2",
+          "id": "u11cup-199858",
           "date": "2026-12-06",
           "endDate": "2026-12-06",
           "round": "CH2",
-          "competition": "Challenge de l’Eure",
+          "competition": "Challenge de l’Eure · U11 ANS M CH2 T3",
           "host": null,
-          "home": null,
-          "time": null,
-          "venue": null,
-          "participants": [],
+          "home": false,
+          "time": "14:00",
+          "venue": "HENRI LERAY, 7  RUE HENRI LERAY, FLEURY SUR ANDELLE",
+          "participants": [
+            "FJEP FLEURY / ANDELLE",
+            "E VAL DE REUIL LOUVIERS HB 2",
+            "EZY SUR EURE"
+          ],
           "results": [],
-          "note": "Challenge annoncé le 6 décembre ; participation, adversaires, lieu et horaire à confirmer."
+          "note": "Lieu du tournoi vérifié sur la fiche FFHB ; l’ordre domicile/extérieur des rencontres ne désigne pas le club organisateur.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199858/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2766299",
+              "date": "2026-12-06T14:00:00+01:00",
+              "equipe1Libelle": "FJEP FLEURY / ANDELLE",
+              "equipe2Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe1Score": null,
+              "equipe2Score": null,
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199858/rencontre-2766299/"
+            },
+            {
+              "ext_rencontreId": "2766301",
+              "date": "2026-12-06T14:00:00+01:00",
+              "equipe1Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe2Libelle": "EZY SUR EURE",
+              "equipe1Score": null,
+              "equipe2Score": null,
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199858/rencontre-2766301/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         },
         {
-          "id": "u11-J5",
+          "id": "u11cup-199861",
+          "date": "2026-12-06",
+          "endDate": "2026-12-06",
+          "round": "CH2",
+          "competition": "Challenge de l’Eure · U11 ANS M CH2 T6",
+          "host": null,
+          "home": false,
+          "time": "14:00",
+          "venue": "HENRI BOYER, RUE RAYMOND PHELIP, LES ANDELYS",
+          "participants": [
+            "HBC LE NEUBOURG",
+            "E VAL DE REUIL LOUVIERS HB 1",
+            "C.S. ANDELYS"
+          ],
+          "results": [],
+          "note": "Lieu du tournoi vérifié sur la fiche FFHB ; l’ordre domicile/extérieur des rencontres ne désigne pas le club organisateur.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199861/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2766308",
+              "date": "2026-12-06T14:00:00+01:00",
+              "equipe1Libelle": "HBC LE NEUBOURG",
+              "equipe2Libelle": "E VAL DE REUIL LOUVIERS HB 1",
+              "equipe1Score": null,
+              "equipe2Score": null,
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199861/rencontre-2766308/"
+            },
+            {
+              "ext_rencontreId": "2766310",
+              "date": "2026-12-06T14:00:00+01:00",
+              "equipe1Libelle": "E VAL DE REUIL LOUVIERS HB 1",
+              "equipe2Libelle": "C.S. ANDELYS",
+              "equipe1Score": null,
+              "equipe2Score": null,
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199861/rencontre-2766310/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
+        },
+        {
+          "id": "u11league-j5",
           "date": "2026-12-12",
           "endDate": "2026-12-12",
           "round": "J5",
-          "competition": "Tournoi phase 1 · Poule B",
-          "host": "HBC Roumois 1",
+          "competition": "Championnat · Poule B",
+          "host": null,
           "home": false,
           "time": "14:00",
-          "venue": "Gymnase Benedetti, allée du Moulin des Hayes, route de Thuit-Hébert, Bourgtheroulde",
+          "venue": "BENEDETTI, ALLE DU MOULIN DES HAYES, BOURGTHEROULDE INFREVILLE",
           "participants": [
             "EVDRLHB 1",
             "EVDRLHB 2",
-            "HBC Roumois 1",
-            "HBC Roumois 2"
+            "HBC ROUMOIS 1ET2"
           ],
           "results": [],
-          "note": ""
+          "note": "Scores FFHB sous le libellé EVDRLHB 2 ; ils ne sont pas attribués à l’équipe 1. Le planning PDF mentionne les équipes 1 et 2.",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+          "fixtures": [
+            {
+              "ext_rencontreId": "2737654",
+              "date": "2026-12-12T14:00:00+01:00",
+              "equipe1Libelle": "HBC ROUMOIS 1ET2",
+              "equipe2Libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "equipe1Score": null,
+              "equipe2Score": null,
+              "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/rencontre-2737654/"
+            }
+          ],
+          "resultPolicy": "ffhandball"
         }
+      ],
+      "resultPolicy": "ffhandball",
+      "competitions": [
+        {
+          "label": "Championnat · Phase 1 · Poule B",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+          "standings": null
+        },
+        {
+          "label": "Challenge de l’Eure · U11 ANS M CH1 T5",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199851/",
+          "standings": [
+            {
+              "place": "1",
+              "equipe_libelle": "E. VAL DE REUIL LOUVIERS HB 2",
+              "point": "6",
+              "joue": "2",
+              "gagne": "2",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "18",
+              "butMoins": "2",
+              "diff": "16"
+            },
+            {
+              "place": "2",
+              "equipe_libelle": "EUS GRAVIGNY MISEREY SPORTS HB",
+              "point": "4",
+              "joue": "2",
+              "gagne": "1",
+              "nul": "0",
+              "perdu": "1",
+              "butPlus": "10",
+              "butMoins": "17",
+              "diff": "-7"
+            },
+            {
+              "place": "3",
+              "equipe_libelle": "HBC GASNY",
+              "point": "2",
+              "joue": "2",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "2",
+              "butPlus": "6",
+              "butMoins": "15",
+              "diff": "-9"
+            }
+          ]
+        },
+        {
+          "label": "Challenge de l’Eure · U11 ANS M CH1 T4",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-200846/",
+          "standings": [
+            {
+              "place": "1",
+              "equipe_libelle": "E. VAL DE REUIL LOUVIERS HB 1",
+              "point": "9",
+              "joue": "3",
+              "gagne": "3",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "45",
+              "butMoins": "4",
+              "diff": "41"
+            },
+            {
+              "place": "2",
+              "equipe_libelle": "US ETREPAGNY",
+              "point": "6",
+              "joue": "3",
+              "gagne": "1",
+              "nul": "1",
+              "perdu": "1",
+              "butPlus": "16",
+              "butMoins": "25",
+              "diff": "-9"
+            },
+            {
+              "place": "3",
+              "equipe_libelle": "SMV VERNON - ST MARCEL 2",
+              "point": "5",
+              "joue": "3",
+              "gagne": "0",
+              "nul": "2",
+              "perdu": "1",
+              "butPlus": "12",
+              "butMoins": "30",
+              "diff": "-18"
+            },
+            {
+              "place": "4",
+              "equipe_libelle": "EZY SUR EURE",
+              "point": "4",
+              "joue": "3",
+              "gagne": "0",
+              "nul": "1",
+              "perdu": "2",
+              "butPlus": "13",
+              "butMoins": "27",
+              "diff": "-14"
+            }
+          ]
+        },
+        {
+          "label": "Challenge de l’Eure · U11 ANS M CH2 T3",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199858/",
+          "standings": [
+            {
+              "place": "1",
+              "equipe_libelle": "E VAL DE REUIL LOUVIERS HB 2",
+              "point": "0",
+              "joue": "0",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "0",
+              "butMoins": "0",
+              "diff": "0"
+            },
+            {
+              "place": "2",
+              "equipe_libelle": "FJEP FLEURY / ANDELLE",
+              "point": "0",
+              "joue": "0",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "0",
+              "butMoins": "0",
+              "diff": "0"
+            },
+            {
+              "place": "3",
+              "equipe_libelle": "EZY SUR EURE",
+              "point": "0",
+              "joue": "0",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "0",
+              "butMoins": "0",
+              "diff": "0"
+            }
+          ]
+        },
+        {
+          "label": "Challenge de l’Eure · U11 ANS M CH2 T6",
+          "source": "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199861/",
+          "standings": [
+            {
+              "place": "1",
+              "equipe_libelle": "E VAL DE REUIL LOUVIERS HB 1",
+              "point": "0",
+              "joue": "0",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "0",
+              "butMoins": "0",
+              "diff": "0"
+            },
+            {
+              "place": "2",
+              "equipe_libelle": "C.S. ANDELYS",
+              "point": "0",
+              "joue": "0",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "0",
+              "butMoins": "0",
+              "diff": "0"
+            },
+            {
+              "place": "3",
+              "equipe_libelle": "HBC LE NEUBOURG",
+              "point": "0",
+              "joue": "0",
+              "gagne": "0",
+              "nul": "0",
+              "perdu": "0",
+              "butPlus": "0",
+              "butMoins": "0",
+              "diff": "0"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/11-masculine-33439/poule-197703/",
+        "https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/u-11-ans-masculin-challenge-de-l-eure-33672/poule-199861/"
       ]
     }
   ]
