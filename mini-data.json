@@ -1,0 +1,275 @@
+{
+  "updatedAt": "2026-11-28",
+  "coverageEnd": "2026-12-12",
+  "resultPolicy": "user_only",
+  "teams": [
+    {
+      "id": "u9",
+      "label": "-9 ans mixtes",
+      "teams": [
+        "EVDRLHB 1",
+        "EVDRLHB 2"
+      ],
+      "source": "U9 Ans Mixtes  Planification Phase 1 2026 2027 .pdf",
+      "standings": null,
+      "events": [
+        {
+          "id": "u9-J1",
+          "date": "2026-10-03",
+          "endDate": "2026-10-03",
+          "round": "J1",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "SMV Vernon – Saint-Marcel",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase Léo Lagrange, 17 rue de la Plaine, Saint-Marcel",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Fleury-sur-Andelle",
+            "Vexin-sur-Epte",
+            "SMV Vernon – Saint-Marcel",
+            "Gaillon Aubevoye"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u9-J2",
+          "date": "2026-10-10",
+          "endDate": "2026-10-10",
+          "round": "J2",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "Fleury-sur-Andelle",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase intercommunal, 7 rue Henri Leray, Fleury-sur-Andelle",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Gisors",
+            "Gravigny Miserey 1 & 2",
+            "Fleury-sur-Andelle",
+            "CS Andelys"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u9-J3",
+          "date": "2026-11-14",
+          "endDate": "2026-11-14",
+          "round": "J3",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "CS Andelys",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase Henri Boyer, rue Raymond Phélip, Les Andelys",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "US Étrépagny",
+            "Pont-de-l’Arche Romilly Alizay 1 & 2",
+            "Fleury-sur-Andelle",
+            "CS Andelys"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u9-J4",
+          "date": "2026-11-21",
+          "endDate": "2026-11-21",
+          "round": "J4",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "EVDRLHB",
+          "home": true,
+          "time": "14:00",
+          "venue": "Gymnase Alphonse Allais, Voie Buissonnière, Val-de-Reuil",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "SMV Vernon – Saint-Marcel",
+            "Gaillon Aubevoye",
+            "Fleury-sur-Andelle",
+            "Gisors"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u9-J5",
+          "date": "2026-12-05",
+          "endDate": "2026-12-05",
+          "round": "J5",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "SMV Vernon – Saint-Marcel",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase Léo Lagrange, 17 rue de la Plaine, Saint-Marcel",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "US Étrépagny",
+            "SMV Vernon – Saint-Marcel",
+            "CS Andelys",
+            "Gisors"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u9-J6",
+          "date": "2026-12-12",
+          "endDate": "2026-12-12",
+          "round": "J6",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "US Étrépagny",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase Jeannie Longo, 2 rue Eugène Lavoisier, Étrépagny",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Gravigny Miserey 1 & 2",
+            "US Étrépagny",
+            "Vexin-sur-Epte"
+          ],
+          "results": [],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "u11",
+      "label": "-11 ans masculins",
+      "teams": [
+        "EVDRLHB 1",
+        "EVDRLHB 2"
+      ],
+      "source": "U 11ANS MASCULINS PLANIFICATION PHASE 1 2026 2027.pdf",
+      "standings": null,
+      "events": [
+        {
+          "id": "u11-J1",
+          "date": "2026-10-03",
+          "endDate": "2026-10-03",
+          "round": "J1",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "Beuzeville",
+          "home": false,
+          "time": "14:30",
+          "venue": "Gymnase communautaire, allée des Quatre Paroisses, Beuzeville",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Beuzeville"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u11-J2",
+          "date": "2026-10-11",
+          "endDate": "2026-10-11",
+          "round": "J2",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "EVDRLHB 1",
+          "home": true,
+          "time": "14:00",
+          "venue": "Complexe sportif Colette Besson, boulevard Jules Ferry, Louviers",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Brionne HB"
+          ],
+          "results": [],
+          "note": "Dimanche indiqué dans le planning (ligne du week-end du 10 octobre)."
+        },
+        {
+          "id": "u11-J3",
+          "date": "2026-11-07",
+          "endDate": "2026-11-07",
+          "round": "J3",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "Pont-de-l’Arche Romilly Alizay",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase J. P. Guerre, rue de l’Église, Alizay",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Pont-de-l’Arche Romilly Alizay"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u11-CH1",
+          "date": "2026-11-14",
+          "endDate": "2026-11-15",
+          "round": "CH1",
+          "competition": "Challenge de l’Eure",
+          "host": null,
+          "home": null,
+          "time": null,
+          "venue": null,
+          "participants": [],
+          "results": [],
+          "note": "Journée annoncée sur le week-end du 14–15 novembre ; date exacte, participation, lieu et horaire à confirmer."
+        },
+        {
+          "id": "u11-J4",
+          "date": "2026-11-21",
+          "endDate": "2026-11-21",
+          "round": "J4",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "EVDRLHB 1",
+          "home": true,
+          "time": "14:00",
+          "venue": "Gymnase Alphonse Allais, Voie Buissonnière, Val-de-Reuil",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "Beuzeville"
+          ],
+          "results": [],
+          "note": ""
+        },
+        {
+          "id": "u11-CH2",
+          "date": "2026-12-06",
+          "endDate": "2026-12-06",
+          "round": "CH2",
+          "competition": "Challenge de l’Eure",
+          "host": null,
+          "home": null,
+          "time": null,
+          "venue": null,
+          "participants": [],
+          "results": [],
+          "note": "Challenge annoncé le 6 décembre ; participation, adversaires, lieu et horaire à confirmer."
+        },
+        {
+          "id": "u11-J5",
+          "date": "2026-12-12",
+          "endDate": "2026-12-12",
+          "round": "J5",
+          "competition": "Tournoi phase 1 · Poule B",
+          "host": "HBC Roumois 1",
+          "home": false,
+          "time": "14:00",
+          "venue": "Gymnase Benedetti, allée du Moulin des Hayes, route de Thuit-Hébert, Bourgtheroulde",
+          "participants": [
+            "EVDRLHB 1",
+            "EVDRLHB 2",
+            "HBC Roumois 1",
+            "HBC Roumois 2"
+          ],
+          "results": [],
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
